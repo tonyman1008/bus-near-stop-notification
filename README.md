@@ -4,8 +4,9 @@
 * [Official Sample Code](https://github.com/ptxmotc/Sample-code)
 * [PTX API](https://ptx.transportdata.tw/MOTC/)
 
-# Run
+# Setup & Run
 ```bash
+yarn
 yarn test
 ```
 # Config
