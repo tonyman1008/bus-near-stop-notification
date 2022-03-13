@@ -16,3 +16,6 @@ yarn test
 * direction : 公車方向
 * taskInterval : 每一次check的間隔時間
 * taskTotalRunTime : 執行總時間
+
+# Eample 672 bus in Taipei
+![672Bus 往大鵬新城方向](./images/672_bus_stop.png)
