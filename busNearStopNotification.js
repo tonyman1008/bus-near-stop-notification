@@ -71,10 +71,8 @@ async function checkIfBusComingSoon(targetStopSequence, city, routeName, directi
 
 //Example code from ptxmotc
 const getAuthorizationHeader = function () {
-    // let AppID = 'FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF';
-    // let AppKey = 'FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF';
-    let AppID = '6dfde87958114a528a34747c13e02612';
-    let AppKey = 'rzRdHhpE_oSLDRF7BiLZtVpximI';
+    let AppID = 'FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF';
+    let AppKey = 'FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF';
 
     let GMTString = new Date().toGMTString();
     let ShaObj = new jsSHA('SHA-1', 'TEXT');
